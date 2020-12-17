@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 🎉
 
 I am a landscape photographer who's passionate about contributing to the community and software development. <br />
 I am currently (technically about to be) a grad student at Carnegie Mellon University. Expected graduation: May 2022 <br />
