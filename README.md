@@ -1,8 +1,9 @@
 ### Hi there 🎉
 
-I am a landscape photographer who's passionate about contributing to the community and software development. <br />
-I am currently a grad student at Carnegie Mellon University. Expected graduation: May 2022 <br />
-I am proud of being a member of University of Illinois at Urbana-Champaign family.
+I am a 
+ex-software engineer intern at VMware. <br />
+Landscape photographer who's passionate about contributing to the community and software development. <br />
+Currently a ECE grad student at Carnegie Mellon University.<br />
 <!--
 **bojiang3/bojiang3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
