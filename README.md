@@ -1,6 +1,6 @@
 ### Hi there 🎉
 
-
+  <br />
 I was a software engineer intern at VMware. <br />
 Landscape photographer who's passionate about contributing to the community and software development. <br />
 Currently an ECE master's student at Carnegie Mellon University.<br />
