@@ -1,6 +1,6 @@
 ### Hi there 🎉
 
-Graduated from CMU. <br />
+CMU alumnus. <br />
 Landscape photographer.<br />
 <!--
 **bojiang3/bojiang3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
